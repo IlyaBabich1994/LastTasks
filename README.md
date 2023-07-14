@@ -13,6 +13,8 @@
 3) Переписать DAO на Spring Data JPA.
 4) Конфигурация больше не нужна. Удалите ее.
 5) Запустите приложение и проверьте, что все работает.
+<br> Почитайте про DTO: https://www.baeldung.com/java-dto-pattern/
+<br> Почитайте про MapStruct на официальном сайте: https://mapstruct.org/
 
 ## Spring Security
 Написать CRUD приложение на spring boot + spring data + spring mvc + spring security + thymeleaf.
