@@ -1,14 +1,14 @@
 ## Spring Boot
 1) Перевести проект на Spring Boot. Для этого надо:
-   <span> 1.1) Зайти на сайт https://start.spring.io/ </span>
-   2.2) Выбрать Maven Project.
-   2.3) Выбрать язык Java.
-   2.4) Выбрать последнюю версию Spring Boot.
-   2.5) Добавить зависимость Spring Web.
-   2.6) Добавить зависимость PostgreSQL Driver.
-   2.7) Добавить зависимость Spring Data JPA.
-   2.8) Нажать Generate Project.
-   2.9) Перенести в новый проект все классы из текущего проекта.
+   <br> 1.1) Зайти на сайт https://start.spring.io/ 
+   <br> 2.2) Выбрать Maven Project.
+   <br> 2.3) Выбрать язык Java.
+   <br> 2.4) Выбрать последнюю версию Spring Boot.
+   <br> 2.5) Добавить зависимость Spring Web.
+   <br> 2.6) Добавить зависимость PostgreSQL Driver.
+   <br> 2.7) Добавить зависимость Spring Data JPA.
+   <br> 2.8) Нажать Generate Project.
+   <br> 2.9) Перенести в новый проект все классы из текущего проекта.
 2) Не забудьте добавить в application.properties настройки для подключения к БД и добавить в pom.xml зависимости hibernate.
 3) Переписать DAO на Spring Data JPA.
 4) Конфигурация больше не нужна. Удалите ее.
