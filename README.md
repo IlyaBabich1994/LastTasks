@@ -5,7 +5,7 @@
    <br> 2.3) Выбрать язык Java.
    <br> 2.4) Выбрать последнюю версию Spring Boot.
    <br> 2.5) Добавить зависимость Spring Web.
-   <br> 2.6) Добавить зависимость PostgreSQL Driver.
+   <br> 2.6) Добавить зависимость PostgreSQL Driver или MySQL Driver.
    <br> 2.7) Добавить зависимость Spring Data JPA.
    <br> 2.8) Нажать Generate Project.
    <br> 2.9) Перенести в новый проект все классы из текущего проекта.
