@@ -1,6 +1,6 @@
 ## Spring Boot
 1) Перевести проект на Spring Boot. Для этого надо:
-   1.1) Зайти на сайт https://start.spring.io/
+   <span> 1.1) Зайти на сайт https://start.spring.io/ </span>
    2.2) Выбрать Maven Project.
    2.3) Выбрать язык Java.
    2.4) Выбрать последнюю версию Spring Boot.
