@@ -32,10 +32,10 @@
 ![img.png](img.png)
 
 ## REST
-Следующее задание изменить MVC на REST и сделать тоже самое, но без перезагрузки страницы.
-Почитайте про RestController: https://spring.io/guides/gs/rest-service/
-Для этого можно использовать thymeleaf.
-Больше информации тут: https://spring.io/guides/gs/rest-service/
-Почитайте про REST: https://habr.com/ru/post/38730/
-Почитайте про jquery ajax: https://learn.javascript.ru/ajax-intro
-Почитайте про fetch: https://learn.javascript.ru/fetch
+<br>Следующее задание изменить MVC на REST и сделать тоже самое, но без перезагрузки страницы.
+<br>Почитайте про RestController: https://spring.io/guides/gs/rest-service/
+<br>Для этого можно использовать thymeleaf.
+<br>Больше информации тут: https://spring.io/guides/gs/rest-service/
+<br>Почитайте про REST: https://habr.com/ru/post/38730/
+<br>Почитайте про jquery ajax: https://learn.javascript.ru/ajax-intro
+<br>Почитайте про fetch: https://learn.javascript.ru/fetch
